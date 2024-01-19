@@ -1,0 +1,15 @@
+C:\Users\jojop\OneDrive\Desktop\REPOS\ModuleReview\ModuleReview\obj\Debug\net6.0\ModuleReview.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jojop\OneDrive\Desktop\REPOS\ModuleReview\ModuleReview\obj\Debug\net6.0\ModuleReview.AssemblyInfoInputs.cache
+C:\Users\jojop\OneDrive\Desktop\REPOS\ModuleReview\ModuleReview\obj\Debug\net6.0\ModuleReview.AssemblyInfo.cs
+C:\Users\jojop\OneDrive\Desktop\REPOS\ModuleReview\ModuleReview\obj\Debug\net6.0\ModuleReview.csproj.CoreCompileInputs.cache
+C:\Users\jojop\OneDrive\Desktop\REPOS\ModuleReview\ModuleReview\obj\Debug\net6.0\ModuleReview.sourcelink.json
+C:\Users\jojop\OneDrive\Desktop\REPOS\ModuleReview\ModuleReview\bin\Debug\net6.0\ModuleReview.exe
+C:\Users\jojop\OneDrive\Desktop\REPOS\ModuleReview\ModuleReview\bin\Debug\net6.0\ModuleReview.deps.json
+C:\Users\jojop\OneDrive\Desktop\REPOS\ModuleReview\ModuleReview\bin\Debug\net6.0\ModuleReview.runtimeconfig.json
+C:\Users\jojop\OneDrive\Desktop\REPOS\ModuleReview\ModuleReview\bin\Debug\net6.0\ModuleReview.dll
+C:\Users\jojop\OneDrive\Desktop\REPOS\ModuleReview\ModuleReview\bin\Debug\net6.0\ModuleReview.pdb
+C:\Users\jojop\OneDrive\Desktop\REPOS\ModuleReview\ModuleReview\obj\Debug\net6.0\ModuleReview.dll
+C:\Users\jojop\OneDrive\Desktop\REPOS\ModuleReview\ModuleReview\obj\Debug\net6.0\refint\ModuleReview.dll
+C:\Users\jojop\OneDrive\Desktop\REPOS\ModuleReview\ModuleReview\obj\Debug\net6.0\ModuleReview.pdb
+C:\Users\jojop\OneDrive\Desktop\REPOS\ModuleReview\ModuleReview\obj\Debug\net6.0\ModuleReview.genruntimeconfig.cache
+C:\Users\jojop\OneDrive\Desktop\REPOS\ModuleReview\ModuleReview\obj\Debug\net6.0\ref\ModuleReview.dll
